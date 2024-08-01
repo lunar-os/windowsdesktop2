@@ -14,13 +14,25 @@
 
 ## Things I used
 
-
 - Widgets made with [Rainmeter](https://www.rainmeter.net/)
-- [Wallpaper](https://github.com/lunar-os/windowsdesktop2/blob/main/wallpaper.png)
+- [Wallpaper](https://github.com/lunar-os/windowsdesktop2/blob/main/wallpaper.png) (edited with ai 😭)
 - [Taskbar Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip) | [Windows Font](https://fonts.google.com/specimen/Mulish) | [Terminal font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/DaddyTimeMono)
 - [Colorscheme](https://rosepinetheme.com/)
 - Windows msstyles theme: [by niivu](https://www.deviantart.com/niivu/art/Rose-Pine-for-Windows-11-955213259)
-- Discord themed with [Vencord](https://vencord.dev/) and [theme](https://github.com/catppuccin/discord)
+- Discord themed with [Vencord](https://vencord.dev/) and [theme](https://github.com/lunar-os/windowsdesktop2/blob/main/extras/rose.css)
+
+## Windhawk
+### Windhawk is for all the taskbar/start menu customizations along with many other things. You can get it from [Windhawk.net](https://windhawk.net/)
+Mods used: 
+- Windows 11 Taskbar Styler | [My config](https://github.com/lunar-os/windowsdesktop2/blob/main/WindhawkConfigs/Taskbar) (Made for 1920x1080 - Can be modified | Use with TranslucentTaskbar Theme)
+- Windows 11 Start Menu Styler | [My config](https://github.com/lunar-os/windowsdesktop2/blob/main/WindhawkConfigs/Start)
+- Windows 11 Notification Center Styler | [My config](https://github.com/lunar-os/windowsdesktop2/blob/main/WindhawkConfigs/Notification)
+- Taskbar Volume Control
+- Taskbar Labels for Windows 11 | [My config](https://github.com/lunar-os/windowsdesktop2/blob/main/WindhawkConfigs/Labels)
+- Taskbar height and icon size | Icon size:16 / Taskbar height:40 / Taskbar button width:34
+- Taskbar Clock Customization | [My config](https://github.com/lunar-os/windowsdesktop2/blob/main/WindhawkConfigs/Clock)
+- Hide Search Bar
+- Disable grouping on the taskbar
 
 ## Extras
 
@@ -35,7 +47,7 @@
 - WM is [komorebi](https://github.com/LGUG2Z/komorebi)
 - code editor is neovim with [lazyvim](https://www.lazyvim.org/)
 - Spotify themed with [Spicetify](https://spicetify.app/)
-- Startpage i made myself [here](https://github.com/lunar-os/windowsdesktop/tree/main/Extras/Startpage)
+- Startpage [here](https://github.com/maxhu08/mtab)
 - In order to seethe weather in the taskbar on the right you need to have [this](https://github.com/lunar-os/windowsdesktop/blob/main/Extras/weather_server) python script running
 
 ![1](https://github.com/user-attachments/assets/d59f586c-9856-4d42-b2fe-ff0098a8e6e9)

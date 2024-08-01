@@ -16,7 +16,7 @@
 
 
 - Widgets made with [Rainmeter](https://www.rainmeter.net/)
-- [Wallpaper](https://w.wallhaven.cc/full/kx/wallhaven-kx9ql7.jpg)
+- [Wallpaper](https://github.com/lunar-os/windowsdesktop2/blob/main/wallpaper.png)
 - [Taskbar Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip) | [Windows Font](https://fonts.google.com/specimen/Mulish) | [Terminal font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/DaddyTimeMono)
 - [Colorscheme](https://rosepinetheme.com/)
 - Windows msstyles theme: [by niivu](https://www.deviantart.com/niivu/art/Rose-Pine-for-Windows-11-955213259)

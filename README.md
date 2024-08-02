@@ -43,8 +43,6 @@ Mods used:
 - [Chrome theme](https://chromewebstore.google.com/detail/ros%C3%A9-pine/noimedcjdohhokijigpfcbjcfcaaahej)
 - [Cursor](https://www.deviantart.com/idarques/art/Vision-Cursor-911891424)
 - [Image in Explorer](https://github.com/Maplespe/explorerTool)
-- Bar in bottom left is [YASB](https://github.com/da-rth/yasb/) Config is [here](https://github.com/lunar-os/windowsdesktop/tree/main/YASB-config)
-- WM is [komorebi](https://github.com/LGUG2Z/komorebi)
 - code editor is neovim with [lazyvim](https://www.lazyvim.org/)
 - Spotify themed with [Spicetify](https://spicetify.app/)
 - Startpage [here](https://github.com/maxhu08/mtab)
